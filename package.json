@@ -1,6 +1,6 @@
 {
   "name": "@bytemaster2704/streaming-chat-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple SDK to interact with a streaming chat API",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
